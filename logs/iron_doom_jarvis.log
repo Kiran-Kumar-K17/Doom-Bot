@@ -1,0 +1,148 @@
+2025-09-28 19:21:44,413 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:21:44,470 - iron_doom_jarvis - INFO - __init__:58 - Iron Doom Jarvis initialized
+2025-09-28 19:21:45,884 - iron_doom_jarvis - INFO - setup_hook:62 - Setting up Iron Doom Jarvis...
+2025-09-28 19:21:45,890 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.tasks
+2025-09-28 19:21:45,895 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.learning
+2025-09-28 19:21:45,898 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fitness
+2025-09-28 19:21:45,902 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.ai_assistant
+2025-09-28 19:21:45,907 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fun
+2025-09-28 19:21:45,912 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.stats
+2025-09-28 19:21:45,915 - iron_doom_jarvis - INFO - setup_hook:75 - Scheduler started
+2025-09-28 19:25:54,616 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:25:54,663 - iron_doom_jarvis - INFO - __init__:58 - Iron Doom Jarvis initialized
+2025-09-28 19:26:01,374 - iron_doom_jarvis - INFO - setup_hook:62 - Setting up Iron Doom Jarvis...
+2025-09-28 19:26:01,376 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.tasks
+2025-09-28 19:26:01,377 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.learning
+2025-09-28 19:26:01,378 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fitness
+2025-09-28 19:26:01,378 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.ai_assistant
+2025-09-28 19:26:01,380 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fun
+2025-09-28 19:26:01,381 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.stats
+2025-09-28 19:26:01,382 - iron_doom_jarvis - INFO - setup_hook:75 - Scheduler started
+2025-09-28 19:26:04,708 - iron_doom_jarvis - INFO - on_ready:143 - Doom Bot#9804 has connected to Discord!
+2025-09-28 19:26:04,708 - iron_doom_jarvis - INFO - on_ready:144 - Bot is in 0 guilds
+2025-09-28 19:35:56,760 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:35:56,811 - iron_doom_jarvis - INFO - __init__:58 - Iron Doom Jarvis initialized
+2025-09-28 19:35:58,063 - iron_doom_jarvis - INFO - setup_hook:62 - Setting up Iron Doom Jarvis...
+2025-09-28 19:35:58,064 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.tasks
+2025-09-28 19:35:58,065 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.learning
+2025-09-28 19:35:58,066 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fitness
+2025-09-28 19:35:58,067 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.ai_assistant
+2025-09-28 19:35:58,069 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fun
+2025-09-28 19:35:58,070 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.stats
+2025-09-28 19:35:58,072 - iron_doom_jarvis - INFO - setup_hook:75 - Scheduler started
+2025-09-28 19:36:01,396 - iron_doom_jarvis - INFO - on_ready:143 - Doom Bot#9804 has connected to Discord!
+2025-09-28 19:36:01,396 - iron_doom_jarvis - INFO - on_ready:144 - Bot is in 1 guilds
+2025-09-28 19:47:23,971 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:47:24,024 - iron_doom_jarvis - INFO - __init__:58 - Iron Doom Jarvis initialized
+2025-09-28 19:47:25,376 - iron_doom_jarvis - INFO - setup_hook:62 - Setting up Iron Doom Jarvis...
+2025-09-28 19:47:25,378 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.tasks
+2025-09-28 19:47:25,379 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.learning
+2025-09-28 19:47:25,380 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fitness
+2025-09-28 19:47:25,380 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.ai_assistant
+2025-09-28 19:47:25,382 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.fun
+2025-09-28 19:47:25,382 - iron_doom_jarvis - INFO - load_extensions:91 - Loaded extension: commands.stats
+2025-09-28 19:47:25,384 - iron_doom_jarvis - INFO - setup_hook:75 - Scheduler started
+2025-09-28 19:47:28,480 - iron_doom_jarvis - INFO - on_ready:143 - Doom Bot#9804 has connected to Discord!
+2025-09-28 19:47:28,480 - iron_doom_jarvis - INFO - on_ready:144 - Bot is in 1 guilds
+2025-09-28 19:50:39,260 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:50:39,311 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:50:39,311 - iron_doom_jarvis - INFO - __init__:60 - Iron Doom Jarvis initialized
+2025-09-28 19:50:40,449 - iron_doom_jarvis - INFO - setup_hook:64 - Setting up Iron Doom Jarvis...
+2025-09-28 19:50:40,451 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.tasks
+2025-09-28 19:50:40,453 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.learning
+2025-09-28 19:50:40,454 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fitness
+2025-09-28 19:50:40,455 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.ai_assistant
+2025-09-28 19:50:40,457 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fun
+2025-09-28 19:50:40,458 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.stats
+2025-09-28 19:50:40,459 - iron_doom_jarvis - INFO - setup_hook:77 - Scheduler started
+2025-09-28 19:50:43,578 - iron_doom_jarvis - INFO - on_ready:145 - Doom Bot#9804 has connected to Discord!
+2025-09-28 19:50:43,578 - iron_doom_jarvis - INFO - on_ready:146 - Bot is in 1 guilds
+2025-09-28 19:51:42,607 - iron_doom_jarvis - ERROR - chat:97 - Gemini API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2025-09-28 19:53:34,797 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:53:34,843 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:53:34,844 - iron_doom_jarvis - INFO - __init__:60 - Iron Doom Jarvis initialized
+2025-09-28 19:53:36,066 - iron_doom_jarvis - INFO - setup_hook:64 - Setting up Iron Doom Jarvis...
+2025-09-28 19:53:36,068 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.tasks
+2025-09-28 19:53:36,069 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.learning
+2025-09-28 19:53:36,070 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fitness
+2025-09-28 19:53:36,070 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.ai_assistant
+2025-09-28 19:53:36,072 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fun
+2025-09-28 19:53:36,073 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.stats
+2025-09-28 19:53:36,074 - iron_doom_jarvis - INFO - setup_hook:77 - Scheduler started
+2025-09-28 19:53:39,087 - iron_doom_jarvis - INFO - on_ready:145 - Doom Bot#9804 has connected to Discord!
+2025-09-28 19:53:39,087 - iron_doom_jarvis - INFO - on_ready:146 - Bot is in 1 guilds
+2025-09-28 19:53:52,656 - iron_doom_jarvis - ERROR - chat:97 - Gemini API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2025-09-28 19:58:50,429 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:58:50,479 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 19:58:50,480 - iron_doom_jarvis - INFO - __init__:60 - Iron Doom Jarvis initialized
+2025-09-28 19:58:51,666 - iron_doom_jarvis - INFO - setup_hook:64 - Setting up Iron Doom Jarvis...
+2025-09-28 19:58:51,667 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.tasks
+2025-09-28 19:58:51,668 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.learning
+2025-09-28 19:58:51,669 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fitness
+2025-09-28 19:58:51,670 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.ai_assistant
+2025-09-28 19:58:51,671 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fun
+2025-09-28 19:58:51,672 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.stats
+2025-09-28 19:58:51,674 - iron_doom_jarvis - INFO - setup_hook:77 - Scheduler started
+2025-09-28 19:58:54,630 - iron_doom_jarvis - INFO - on_ready:145 - Doom Bot#9804 has connected to Discord!
+2025-09-28 19:58:54,631 - iron_doom_jarvis - INFO - on_ready:146 - Bot is in 1 guilds
+2025-09-28 19:59:05,694 - iron_doom_jarvis - ERROR - chat:97 - Gemini API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2025-09-28 20:03:12,875 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 20:03:12,930 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 20:03:12,930 - iron_doom_jarvis - INFO - __init__:60 - Iron Doom Jarvis initialized
+2025-09-28 20:03:14,146 - iron_doom_jarvis - INFO - setup_hook:64 - Setting up Iron Doom Jarvis...
+2025-09-28 20:03:14,148 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.tasks
+2025-09-28 20:03:14,149 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.learning
+2025-09-28 20:03:14,150 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fitness
+2025-09-28 20:03:14,153 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.ai_assistant
+2025-09-28 20:03:14,154 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fun
+2025-09-28 20:03:14,155 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.stats
+2025-09-28 20:03:14,156 - iron_doom_jarvis - INFO - setup_hook:77 - Scheduler started
+2025-09-28 20:03:17,861 - iron_doom_jarvis - INFO - on_ready:145 - Doom Bot#9804 has connected to Discord!
+2025-09-28 20:03:17,861 - iron_doom_jarvis - INFO - on_ready:146 - Bot is in 1 guilds
+2025-09-28 20:03:39,821 - iron_doom_jarvis - ERROR - chat:112 - Gemini API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2025-09-28 20:08:07,255 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 20:08:07,284 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 20:08:07,311 - iron_doom_jarvis - INFO - __init__:37 - Using official Google GenAI SDK
+2025-09-28 20:08:07,311 - iron_doom_jarvis - INFO - __init__:60 - Iron Doom Jarvis initialized
+2025-09-28 20:10:00,161 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 20:10:00,188 - iron_doom_jarvis - INFO - setup_logger:53 - Logger initialized for iron_doom_jarvis
+2025-09-28 20:10:00,214 - iron_doom_jarvis - INFO - __init__:37 - Using official Google GenAI SDK
+2025-09-28 20:10:00,214 - iron_doom_jarvis - INFO - __init__:60 - Iron Doom Jarvis initialized
+2025-09-28 20:10:01,468 - iron_doom_jarvis - INFO - setup_hook:64 - Setting up Iron Doom Jarvis...
+2025-09-28 20:10:01,469 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.tasks
+2025-09-28 20:10:01,471 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.learning
+2025-09-28 20:10:01,471 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fitness
+2025-09-28 20:10:01,475 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.ai_assistant
+2025-09-28 20:10:01,477 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.fun
+2025-09-28 20:10:01,479 - iron_doom_jarvis - INFO - load_extensions:93 - Loaded extension: commands.stats
+2025-09-28 20:10:01,481 - iron_doom_jarvis - INFO - setup_hook:77 - Scheduler started
+2025-09-28 20:10:04,412 - iron_doom_jarvis - INFO - on_ready:145 - Doom Bot#9804 has connected to Discord!
+2025-09-28 20:10:04,412 - iron_doom_jarvis - INFO - on_ready:146 - Bot is in 1 guilds
