@@ -1,0 +1,66 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+
+# API Keys and sensitive configuration
+config/secrets.json
+secrets.json
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Data files with potentially sensitive info
+data/history.json
+data/*_preferences.json
+data/user_data.json
+data/personal_*
+
+# Docker secrets
+.dockerignore.local
+docker-compose.override.yml
+
+# IDE files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal notes and docs
+PERSONAL_NOTES.md
+TODO_PERSONAL.md
+
+# Cache and temporary files
+.cache/
+tmp/
+temp/
+*.tmp
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
